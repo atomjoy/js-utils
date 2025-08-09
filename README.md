@@ -16,7 +16,7 @@ export { fun1, fun2, fun3 }
 ## Import Vue
 
 ```js
-import { default as fun1, fun2, fun3 } cookie from '@/utils/cookies'
+import { default as fun1, fun2, fun3 } from '@/utils/cookies'
 import fun1, { fun2, fun3 } from '@/utils/cookies'
 
 import { fun1, fun2, fun3 } from '@/utils/cookies'
