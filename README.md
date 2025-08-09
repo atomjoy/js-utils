@@ -4,7 +4,6 @@ JavaScript simple functions.
 # Export Vue
 
 ```js
-# Export
 function fun1() {}
 function fun2() {}
 function fun3() {}
