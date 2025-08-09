@@ -3,7 +3,7 @@ JavaScript simple functions.
 
 # Export Vue
 
-```jd
+```js
 # Export
 function fun1() {}
 function fun2() {}
