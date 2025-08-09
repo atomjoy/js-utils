@@ -1,7 +1,7 @@
 # js-utils
 JavaScript simple functions.
 
-# Export Vue
+## Export Vue
 
 ```js
 function fun1() {}
